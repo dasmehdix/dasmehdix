@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 📝 I also have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
+- 📝 I have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
 
 - 👨‍💻 All of my projects are available at [www.kaggle.com/dasmehdixtr](www.kaggle.com/dasmehdixtr)
 
