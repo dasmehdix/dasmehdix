@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Vision and AI for Drones**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🔭 I also working on **Smart E-seal**
 
-- 🔭 I’m currently working on **Smart E-seal**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📝 I also have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
 
