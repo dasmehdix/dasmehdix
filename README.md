@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/mehdi-%c3%b6zel-8b937a15a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehdi-%c3%b6zel-8b937a15a" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/16209037" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="16209037" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11703546" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11703546" height="30" width="30" /></a>
 <a href="https://kaggle.com/dasmehdixtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dasmehdixtr" height="30" width="30" /></a>
 <a href="https://medium.com/@mehdixozel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mehdixozel" height="30" width="30" /></a>
 </p>
