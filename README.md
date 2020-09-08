@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vision and AI for Drones**
 
-- 🔭 I also working on **Smart E-seal**
+- 🔭 I'm also working on **Smart E-seal**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
