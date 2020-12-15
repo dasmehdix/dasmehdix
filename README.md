@@ -11,8 +11,6 @@
 
 - 📝 I have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
 
-- 👨‍💻 Some of my projects are available at -> [here](www.kaggle.com/dasmehdixtr)
-
 - 💬 I generally use **Tensorflow / PyTorch / OpenCV / Pandas / Sklearn etc.**
 
 - 📫 How to reach me: **mehdixozel@gmail.com**
