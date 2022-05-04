@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasmehdix" alt="dasmehdix" /> </p>
 
-- 🔭 I’m currently working on **Vision and AI for Drones**
+- 🔭 I’m currently working on **Virtual Try-On Systems**
 
-- 🔭 I'm also working on **Smart E-seal**
-
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🔭 I was working on **Vision & AI on Drones**
 
 - 📝 I have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
 
