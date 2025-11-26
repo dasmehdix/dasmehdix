@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasmehdix" alt="dasmehdix" /> </p>
 
-- 🔭 I’m currently working on **Virtual Try-On Systems**
+- 🔭 I’m currently working on **Medical Image Processing / Medical AI**
 
-- 🔭 I was working on **Vision & AI on Drones**
+- 🔭 I was working on **Virtual Try-On Systems**
 
 - 📝 I have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
 
