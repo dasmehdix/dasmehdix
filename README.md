@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+# Hey, I'm Mehdi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasmehdix" alt="dasmehdix" /> </p>
+**AI Engineer by profession, Spaghetti Coder by nature.**
 
-- 🔭 I’m currently working on **Medical Image Processing / Medical AI**
+I've been building AI and computer vision systems since 2019. I enjoy working on problems where deep learning meets engineering, mathematics, and real-world applications.
 
-- 🔭 I was working on **Virtual Try-On Systems**
+Currently pursuing my M.Sc. in Avionics Engineering at Yıldız Technical University.
 
-- 📝 I have experiences on **AI in embedded systems like STM and Nvidia Jetson series.**
+### 🔭 What I'm working on
 
-- 💬 I generally use **Tensorflow / PyTorch / OpenCV / Pandas / Sklearn etc.**
+- Medical AI & 3D image segmentation
+- Cardiovascular imaging & CT-FFR
+- Computational fluid dynamics & scientific machine learning
+- Physics-informed neural networks
 
-- 📫 How to reach me: **mehdixozel@gmail.com**
+### 🧠 Things I've worked with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p
+- Computer Vision & Deep Learning
+- Medical Image Processing
+- Virtual Try-On & Fashion AI
+- Embedded AI & Edge Computing
+- UAV Detection & Autonomous Systems
+- Driver Identification & Sensor Data Analysis
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasmehdix&show_icons=true&locale=en&layout=compact" alt="dasmehdix" /></p>
+### 📦 Open Datasets
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasmehdix&show_icons=true&locale=en" alt="dasmehdix" /></p>
+**Drone Detection Image Dataset (UAV)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasmehdix&" alt="dasmehdix" /></p>
+1,359 annotated UAV images for object detection research.
 
-<p align="center">
-<a href="https://linkedin.com/in/mehdi-%c3%b6zel-8b937a15a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehdi-%c3%b6zel-8b937a15a" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11703546" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11703546" height="30" width="30" /></a>
-<a href="https://kaggle.com/dasmehdixtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dasmehdixtr" height="30" width="30" /></a>
-<a href="https://medium.com/@mehdixozel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mehdixozel" height="30" width="30" /></a>
-</p>
+[GitHub](https://github.com/dasmehdix/drone-dataset) · [Kaggle](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav) · [DOI](https://doi.org/10.5281/zenodo.24499553)
+
+**Multi-Simulator Driver Behaviour Dataset**
+
+335K IMU measurements from 7 drivers across CARLA and AirSim.
+
+[GitHub](https://github.com/dasmehdix/Carla_IMU_Classifier) · [DOI](https://doi.org/10.5281/zenodo.24503385)
+
+### 🛠️ My toolbox
+
+~~**AI & ML:** PyTorch, TensorFlow, nnU-Net, Scikit-learn~~
+
+~~**Computer Vision:** OpenCV, NumPy, SciPy~~
+
+~~**Medical Imaging:** SimpleITK, VTK, VMTK, 3D Slicer~~
+
+~~**Development:** Python, C/C++, Linux, Docker, Git~~
+
+**UPDATE!** **I used to know these. Now I know how to prompt Claude.**
+
+
+### 🌐 Find me elsewhere
+
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=aqPpehwAAAAJ)
+- 📊 [Kaggle](https://www.kaggle.com/dasmehdixtr)
+- 💼 [LinkedIn](LINKEDIN_URL)
+- 📫 [Personal Email](mailto:mehdixozel@gmail.com)
+- 🏫 [Academic Email](mailto:mehdi.ozel@std.yildiz.edu.tr)
+
+
+---
