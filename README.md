@@ -51,11 +51,10 @@ Currently pursuing my M.Sc. in Avionics Engineering at Yıldız Technical Univer
 
 ### 🌐 Find me elsewhere
 
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=aqPpehwAAAAJ)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=aqPpehwAAAAJ) [ORCID](https://orcid.org/0009-0007-4212-1272)
 - 📊 [Kaggle](https://www.kaggle.com/dasmehdixtr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehdixozel/)
 - 📫 [Personal Email](mailto:mehdixozel@gmail.com)
 - 🏫 [Academic Email](mailto:mehdi.ozel@std.yildiz.edu.tr)
-
 
 ---
